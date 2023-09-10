@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: ...
 -->
-![Moscon GitHub stats](https://github-readme-stats.vercel.app/api?username=lorrainyrmoscon&show_icons=true&theme=dracula&count_private=true)
+
 
 ## Tecnologias que estou estudando
 <div style="display: inline_block"><br>
